@@ -18,5 +18,13 @@
     <ClCompile Include="01_06Day作业_单向链表.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LinkList_Funcs.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LinkList_Funcs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
